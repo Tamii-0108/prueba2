@@ -1,0 +1,35 @@
+#titulo {color:blue}
+.contenido {color:blue}
+.nuevo {color:green}
+body{
+  background-color: #f2f2f2;
+}
+h1 {
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+body{
+  font-family: verdana,sans-serif;
+  background-color: #fafafa;
+  color: #333;
+}
+header, footer{
+  background-color: #3EB489;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+nav ul {
+  list-style-type: none;
+  background-color: #444
+  padding: 10px
+  display: flex;
+  justify-content: center;
+}
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+selection {
+  padding: 20px;
+}
